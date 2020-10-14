@@ -5,7 +5,7 @@ import { GifGrid } from './components/GifGrid';
 
 export const GifApp = () => {
    
-    const [categories, setCategories] = useState(['Once Punsh']);
+    const [categories, setCategories] = useState(['Batman']);
 
     // const handleAdd=()=>{
     //     setCategories( cats =>[...categories, "mari"]);
